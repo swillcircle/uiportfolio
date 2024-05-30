@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "I prioritize client collaboration, fostering open communication ",
+      title: "Promoting open communication, prioritizing collaboration with teams",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "I'm very flexible with time zone communications",
+      title: "Adaptable to global time zone communications with teams worldwide",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -70,25 +70,29 @@ export const navItems = [
   ];
   
   export const projects = [
+
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      title: "SmithTrade",
+      hovTitle: "Visit",
+      des: "E-Commerce marketplace for electronic components",
+      img: "/p2.svg",
+      iconLists: ["/figma-icon.svg", "/tail.svg", "/google-md-icon.svg", "/angular-icon.svg"],
+      link: "https://trade.smithweb.com/",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      title: "Veeva Systems",
+      hovTitle: "Visit",
+      des: "Led project revamping navigation for company's product expansion, alongside creating standardized templates for enhanced scalability..",
+      img: "/p1.svg",
+      iconLists: ["/adobe-xd-icon.svg", "/html-icon.svg", "/css-icon.svg", "bootstrap-5-logo-icon.svg"],
+      link: "https://www.veeva.com/",
     },
     {
       id: 3,
       title: "AI Image SaaS - Canva Application",
+      hovTitle: "Visit",
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
@@ -97,6 +101,7 @@ export const navItems = [
     {
       id: 4,
       title: "Animated Apple Iphone 3D Website",
+      hovTitle: "Visit",
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
@@ -114,14 +119,14 @@ export const navItems = [
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Collaborating with Danny was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Danny's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Danny is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
       img: "/profile.svg"
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Collaborating with Danny was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Danny's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Danny is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
       img: "/profile.svg"
@@ -131,34 +136,34 @@ export const navItems = [
   export const companies = [
     {
       id: 1,
-      name: "cloudinary",
-      img: "/cloud.svg",
-      nameImg: "/cloudName.svg",
+      name: "Smith",
+      img: "/smith-logo.svg",
+      nameImg: "/smith-words.svg",
     },
     {
       id: 2,
-      name: "appwrite",
-      img: "/app.svg",
-      nameImg: "/appName.svg",
+      name: "Veeva",
+      img: "/veeva.svg",
+      nameImg: "/Veeva_Systems_Logo.svg",
     },
     {
       id: 3,
-      name: "HOSTINGER",
-      img: "/host.svg",
-      nameImg: "/hostName.svg",
+      name: "Value City",
+      img: "/vcf.svg",
+      nameImg: "/vc-type-logo.svg",
     },
     {
       id: 4,
-      name: "stream",
-      img: "/s.svg",
-      nameImg: "/streamName.svg",
+      name: "Victoria's Secret",
+      img: "/vs-icon-logo.svg",
+      nameImg: "/VS-logo.svg",
     },
-    {
-      id: 5,
-      name: "docker.",
-      img: "/dock.svg",
-      nameImg: "/dockerName.svg",
-    },
+    // {
+    //   id: 5,
+    //   name: "docker.",
+    //   img: "/dock.svg",
+    //   nameImg: "/dockerName.svg",
+    // },
   ];
   
   export const workExperience = [

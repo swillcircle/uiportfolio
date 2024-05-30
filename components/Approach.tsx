@@ -9,22 +9,22 @@ const Approach = () => {
   return (
     <section className="w-full py-20">
         <h1 className="heading">
-            My <span className="text-purple">approach</span>
+            My <span className="text-purple">design approach</span>
         </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card 
-            title="Planning & Strategy" 
-            icon={<AceternityIcon order="Phase 1" />}
-            description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements.">
+            title="Research and Discovery" 
+            icon={<AceternityIcon order="Step 1" />}
+            description="First, I dive deep into understanding the problem I'm trying to solve and who I'm solving it for. I talk to users, study the competition, and really get to know the market. It's like laying the groundwork, so I have a solid understanding of what may be needed.">
           <CanvasRevealEffect
             animationSpeed={5.1}
             containerClassName="bg-emerald-900"
           />
         </Card>
         <Card 
-            title="Development & Progress Update" 
-            icon={<AceternityIcon order="Phase 2" />}
-            description="Once we agree on the plan, I cue my lofi playlist and dive into coding. From initial sketches to polished code, I keep you updated every step of the way.">
+            title="Design and Prototyping" 
+            icon={<AceternityIcon order="Step 2" />}
+            description="Next comes the fun part - I start brainstorming and coming up with ideas based on what I've learned. I sketch out designs, create wireframes, and build prototypes to test my ideas. This phase is all about turning those insights into tangible solutions that I can refine and improve.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
@@ -36,9 +36,9 @@ const Approach = () => {
           />          
         </Card>
         <Card 
-            title="Development & Launch" 
-            icon={<AceternityIcon order="Phase 3" />}
-            description="This is where the magic happens! Based on the approved design, I'll translate everything into functional code, building your website from the ground up.">
+            title="Implementation and Iteration" 
+            icon={<AceternityIcon order="Step 3" />}
+            description="Once I've got a design I'm happy with, it's time to bring it to life. I get to work building the actual product, while continuing to gather feedback and make tweaks along the way. It's a continuous cycle of building, testing, and refining until I've got a product that truly meets the needs of my users.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-sky-600"

@@ -31,12 +31,12 @@ const Hero = () => {
                 </h2>
                 <TextGenerateEffect 
                 className='text-center text-[40px] md:text-5xl lg:text-6xl'
-                words='Transforming Concepts into Seamless User Experiances'
+                words='Designing Intuitive and Engaging User Experiences'
                 />
-                <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>Hi I&apos;m Danny, a Product UX/UI designer <br/> who loves to code</p>
-                <a href="#about">
+                <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>Hi I&apos;m Danny, a Product UX/UI designer <br/> who loves to code 🤓</p>
+                <a href="#projects">
                     <MagicButton 
-                    title="See my work"
+                    title="Skip to projects"
                     icon={<FaLocationArrow />}
                     position='right'
                     />

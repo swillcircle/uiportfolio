@@ -21,11 +21,11 @@ const Clients = () => {
                         <img 
                         src={img} 
                         alt={name} 
-                        className='md:w-10 w-5'/>
+                        className='md:w-10 w-5 sm:hidden'/>
                         <img 
                         src={nameImg} 
                         alt={name} 
-                        className='md:w-24 w-20'/>
+                        className='md:w-24 w-20 hidden sm:block'/>
                     </div>
                 ))}
             </div>

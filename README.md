@@ -38,4 +38,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # uiportfolio
 Daniel Painter UX/UI Portfolio
->>>>>>> 01d270f926047b608077bee1d5f22c7301e5d24d
