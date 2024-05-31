@@ -213,4 +213,9 @@ export const navItems = [
       img: "./link.svg",
       link:'https://www.linkedin.com/in/danny-painter/',
     },
+    {
+      id: 4,
+      img: "./dribble.svg",
+      link:'https://dribbble.com/swillcircle',
+    },
   ];
