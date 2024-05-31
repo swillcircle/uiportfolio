@@ -52,7 +52,7 @@ export const navItems = [
       title: "Currently learning about Aceternity UI 🤯",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
-      imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
+      imgClassName: "absolute right-0 bottom-0 md:w-[30rem] w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
       img: "./b5.svg",
       spareImg: "./grid.svg",
@@ -119,17 +119,17 @@ export const navItems = [
     },
     {
       quote:
-        "Collaborating with Danny was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Danny's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Danny is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-      img: "./profile.svg"
+        "Danny’s dedication to user-centered design principles is apparent in every project he undertakes. His positive attitude and commitment to excellence have made him a dependable team member, especially in managing complex requirements and prioritizing critical projects.",
+      name: "Stacey Smith",
+      title: "User Experience Professional | MLIS",
+      img: "./staceySmith.svg"
     },
     {
       quote:
-        "Collaborating with Danny was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Danny's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Danny is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-      img: "./profile.svg"
+        "I wholeheartedly recommend Danny for any role that aims to leverage his outstanding skills in UX/UI design. Danny is an excellent team player and a valuable asset and he would be a valuable member of any team.",
+      name: "Matt Wilkerson",
+      title: "Senior Lead Ecommerce Frontend, UI/UX Web Developer",
+      img: "./mattWilkerson.svg"
     },
   ];
   
@@ -179,21 +179,21 @@ export const navItems = [
       title: "Web UI Designer & Developer",
       desc: "Identify, and address UI needs and redesign website's navigation to improve site engagement and usabilityÌ",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "./exp1.svg",
+      thumbnail: "./exp11.svg",
     },
     {
       id: 3,
       title: "Web Designer & Developer",
-      desc: "LDesigned and developed landing pages collaboratively to achieve sales targets.",
+      desc: "Designed and developed landing pages collaboratively to achieve sales targets.",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "./exp3.svg",
+      thumbnail: "./exp12.svg",
     },
     {
       id: 4,
       title: "Senior Graphic Designer",
       desc: "Specialize in problem solving, reworking creative, navigation, and execution of in store display elements.",
       className: "md:col-span-2",
-      thumbnail: "./exp4.svg",
+      thumbnail: "./exp3.svg",
     },
   ];
   
