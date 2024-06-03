@@ -12,7 +12,7 @@ const Clients = () => {
       <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
             <InfiniteMovingCards 
                 items={testimonials}
-                direction='right'
+                direction='left'
                 speed='slow'
             />
             <div className='flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg mt-10'>
