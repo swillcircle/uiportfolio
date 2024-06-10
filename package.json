@@ -2,7 +2,7 @@
   "name": "ui-portfoilio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://swillcircle.github.com/uiportfolio.git",
+  "homepage": "https://danielpainterdesign.com/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
