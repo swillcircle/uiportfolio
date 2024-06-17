@@ -118,15 +118,13 @@ export const navItems = [
       img: "./SamHinkProfile.svg"
     },
     {
-      quote:
-        "Danny’s dedication to user-centered design principles is apparent in every project he undertakes. His positive attitude and commitment to excellence have made him a dependable team member, especially in managing complex requirements and prioritizing critical projects.",
+      quote:"I'm delighted to recommend Danny. He has been a mentor to me and continues to guide me with his wealth of knowledge and experience. Danny approaches every project with careful thought and thorough research, ensuring we fully understand our goals and the products we're creating.", 
       name: "Stacey Smith",
       title: "User Experience Professional | MLIS",
       img: "./staceySmith.svg"
     },
     {
-      quote:
-        "I wholeheartedly recommend Danny for any role that aims to leverage his outstanding skills in UX/UI design. Danny is an excellent team player and a valuable asset and he would be a valuable member of any team.",
+      quote:"I've worked along side many designers and developers over the years, but Danny stands out due to his unique blend of creativity, technical acumen, and a deep understanding of user-centered design principles. Danny played a pivotal role in redesigning our websites navigation and promotional features. His innovative thinking and design skills significantly improved the overall user satisfaction, on our website according to user feedback surveys.",
       name: "Matt Wilkerson",
       title: "Senior Lead Ecommerce Frontend, UI/UX Web Developer",
       img: "./mattWilkerson.svg"
