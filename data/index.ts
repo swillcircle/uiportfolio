@@ -89,24 +89,24 @@ export const navItems = [
       iconLists: ["./adobe-xd-icon.svg", "./html-icon.svg", "./css-icon.svg", "./bootstrap-5-logo-icon.svg"],
       link: "https://www.veeva.com/",
     },
-    // {
-    //   id: 3,
-    //   title: "AI Image SaaS - Canva Application",
-    //   hovTitle: "Visit",
-    //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    //   img: "./p3.svg",
-    //   iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./c.svg"],
-    //   link: "https://github.com/adrianhajdin/ai_saas_app",
-    // },
-    // {
-    //   id: 4,
-    //   title: "Animated Apple Iphone 3D Website",
-    //   hovTitle: "Visit",
-    //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    //   img: "./p4.svg",
-    //   iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
-    //   link: "https://github.com/adrianhajdin/iphone",
-    // },
+    {
+      id: 3,
+      title: "SimHUb",
+      hovTitle: "Visit",
+      des: "A re-imagining of SimHub's home page. SimHub is a program where you can add external hardware to your simulator.",
+      img: "./p3.svg",
+      iconLists: ["./figma-icon.svg","./re.svg", "./tail.svg", "./three.svg"],
+      link: "https://simhub-vert.vercel.app/",
+    },
+    {
+      id: 4,
+      title: "Figma UI Designs and Code",
+      hovTitle: "Visit",
+      des: "UI designs with some links to the components code in CodePen",
+      img: "./p4.svg",
+      iconLists: ["./figma-icon.svg", "./tail.svg", "./codepen-icon.svg"],
+      link: "https://www.figma.com/design/kJRxexJ6Fkf1M1g0VQgoET/Daniel-Painter-UI?node-id=0-1&t=V5hyWXDZItQflkwA-1",
+    },
   ];
   
   export const testimonials = [
